@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Alpine_Maintenance
+ *
+ * @copyright   Copyright (c) 2020 Alpine Consulting, Inc (www.alpineinc.com)
+ * @author      Michal Zymela (mzymela@alpineinc.com)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Alpine_Maintenance" setup_version="1.0.0"/>
+</config>
