@@ -2,7 +2,7 @@
     "name": "alpine/maintenance",
     "description": "Custom maintenance page from html file placed in pub/maintenance directory",
     "require": {
-        "php": "~7.1.3||~7.2.0||~7.3.0",
+        "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0",
         "magento/magento-composer-installer": "*",
         "magento/framework": "102.0.*"
     },
